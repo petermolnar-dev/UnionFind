@@ -7,3 +7,8 @@
 //
 
 import Foundation
+// This is s Quickfind implementation as a class
+
+class QuickFind {
+    
+}
